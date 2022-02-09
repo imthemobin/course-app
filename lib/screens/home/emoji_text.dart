@@ -20,7 +20,7 @@ class EmojiText extends StatelessWidget {
             )
           ),
           TextSpan(text: '✨',style: TextStyle(
-            fontSize: 24
+            fontSize: 25
           ))
         ]
       )),
